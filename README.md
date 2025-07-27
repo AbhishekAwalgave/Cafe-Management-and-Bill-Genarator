@@ -1,4 +1,4 @@
-Cafe Management and Bill Generator System (Python)
+Cafe Management and Bill Generator System Python(CLI Based)
 
 📌 Project Description:
 This is a simple Cafe Management System built using Python. The application allows users to take customer orders, generate bills, and manage menu items. It's designed to help small cafés or restaurants streamline the billing process and track orders efficiently.
